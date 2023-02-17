@@ -21,6 +21,17 @@ header .header-left {
     display: flex;
     align-items: center;
 }
+.btn{
+    background-color:#f9004d;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    margin-left: 300px;
+    padding: 10px 25px;
+    border-radius: 30px;
+    transition: transform .4s; 
+}
 header .header-left .logo {
     width: 140px;
 }
